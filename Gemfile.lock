@@ -177,7 +177,6 @@ PLATFORMS
 DEPENDENCIES
   bootsnap (>= 1.4.2)
   byebug
-  i18n (~> 1.8.5)
   jbuilder (~> 2.7)
   listen (~> 3.2)
   puma (~> 4.1)
