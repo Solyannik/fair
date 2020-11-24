@@ -6,6 +6,7 @@
     "@rails/activestorage": "^6.0.0",
     "@rails/ujs": "^6.0.0",
     "node": "^15.2.1",
+    "node-gyp": "^7.1.2",
     "node-sass": "^5.0.0",
     "pg": "^8.5.1",
     "turbolinks": "^5.2.0",
